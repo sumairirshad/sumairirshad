@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50%" height="300"/>
   
 </div>
-<h3>![]https://komarev.com/ghpvc/?username=sumairirshad</h3>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sumairirshad&style=for-the-badge">
+</a>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sumairirshad/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
