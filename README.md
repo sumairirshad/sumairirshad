@@ -14,9 +14,12 @@
   <h3>About Me 👨🏼‍💻</h3>
 <p> I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></p>
 
-<p> In my free time, I solve problems created by my self 😅 and read tech articles.</p>
+<p> I possess expertise in C#, .Net Core,
+.Net framework, MVC, WebApi, Javascript, TypeScript, AngularJS, Angular, ReactJS, HTML5, 
+CSS3, and Bootstrap, and have proficiency in databases such as SQLServer, MySQL,
+NoSQL, and MongoDB.</p>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadJazab&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumairirshad)](https://git.io/streak-stats)
  <div dir="auto">
    <h3>I am Proficient with</h3>
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="5%"/>
