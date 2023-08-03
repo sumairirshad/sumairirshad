@@ -32,7 +32,7 @@ NoSQL, and MongoDB.</p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="5%"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="5%"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="5%"/>
-	    <img src="[https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)" alt="Visual Studio Code" width="5%"/>
+	    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="5%"/>
      
 
   </div>
