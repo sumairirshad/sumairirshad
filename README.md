@@ -2,9 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50%" height="300"/>
   
 </div>
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sumairirshad&style=for-the-badge">
-</a>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sumairirshad/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,6 +10,9 @@
    <a href="https://twitter.com/sumairirshad">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+	<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sumairirshad&style=for-the-badge">
+</a>
 </div>
 <div id="header" align="center">
   <h3>About Me 👨🏼‍💻</h3>
